@@ -29,6 +29,11 @@ The workbook contains 9,648 sales records with fields including:
 4. How do In-store, Outlet, and Online channels compare?
 5. What sales trends can support inventory and marketing decisions?
 
+
+## Dashboard Preview
+
+![Adidas Sales Analysis Dashboard](Dashboard.png)
+
 ## Key Findings
 The analysis identified Men's Street Footwear as a leading revenue-generating product category. The West region recorded the highest total sales in the PivotTable analysis.
 
