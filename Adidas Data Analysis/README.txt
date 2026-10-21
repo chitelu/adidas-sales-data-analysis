@@ -30,6 +30,7 @@ The workbook contains 9,648 sales records with fields including:
 5. What sales trends can support inventory and marketing decisions?
 
 
+
 ## Dashboard Preview
 
 ![Adidas Sales Analysis Dashboard](Dashboard.png)
